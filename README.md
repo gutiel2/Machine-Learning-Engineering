@@ -13,7 +13,7 @@ It includes a combination of RANS and DNS/LES data for 29 two-dimensional incomp
 ##  Model Overview
 The model used is a Tensor Basis Neural Network (TBNN), based on the formulation by Ling et al. (2016) and Pope (1975). It predicts the anisotropic part of the Reynolds stress tensor using physically invariant input features derived from the mean flow (strain-rate and rotation-rate tensors).
 
-## 🛠Instructions to Run the Code
+## Instructions to Run the Code
 Required Dependencies: torch, numpy, matplotlib, and random.
 
 
